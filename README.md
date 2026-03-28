@@ -1,4 +1,6 @@
-# 📓 Journal Backend API
+🔗 Project Links
+
+#Frontend Repository: https://github.com/azman08/journal-frontend
 
 A RESTful backend for the Journal Website built with **Node.js**, **Express**, and **MongoDB**.
 
